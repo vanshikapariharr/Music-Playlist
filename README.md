@@ -1,8 +1,8 @@
-# Music Playlist App
+Music Playlist App
 
 A modern web-based music player built using **HTML**, **CSS**, and **JavaScript**. This app allows users to play, pause, skip, and shuffle songs while displaying the current song information and playlist.
 
-## Features
+Features
 
 - **Play/Pause Songs**: Easily start or pause the current song.  
 - **Skip/Previous**: Move to the next or previous song in the playlist.  
@@ -11,7 +11,7 @@ A modern web-based music player built using **HTML**, **CSS**, and **JavaScript*
 - **Playlist Management**: View all songs in the playlist with artist names and duration.  
 - **Responsive Design**: Works well on desktop and mobile screens.  
 
-## Technologies Used
+Technologies Used
 
 - **HTML5**: Structure of the app.  
 - **CSS3 & CSS Variables**: Styling, theming, and responsive design.  
